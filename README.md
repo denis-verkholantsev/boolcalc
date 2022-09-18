@@ -1,8 +1,8 @@
 # boolcalc
 Variables xN, where N is a natural number (that is, the variables x1, x2, x3, ...). Can take the values 0 and 1 (not zero).  
-Operations:
+Operations:  
 \& Conjunction  
-\v disjunction  
+v disjunction  
 \~ negation  
 \> implication (x → y)  
 \< inverse implication (x ← y)  
